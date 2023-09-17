@@ -7,3 +7,7 @@ Learning goals:
 1. Learn web scraping
 2. Use different machine learning models
 3. Practice data visualization
+
+This project is split into 2 files: 
+- one for data cleaning, and
+- one for analysis and model development
